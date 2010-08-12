@@ -183,6 +183,14 @@ c|3||+|Latest Received||b|
 c|Q||||b|
 c|n||+|Note||b|
 #
+#b|a|||Author||c|
+#b|t|||Title||c|
+#b|u|||Uniform Title||c|
+#c|t|||||c|
+#c|$|||Location||c|
+#c|C|||Call #||c|
+#c|h|||LIB. HAS||c|
+#
 e|h|||Public Note||e|
 e|e|||Description||e|
 e|w|||Vendor||e|
